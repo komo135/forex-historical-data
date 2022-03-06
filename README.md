@@ -2,6 +2,7 @@
 Each symbol contains m15, m30, h1, h4, d1 data and the data length is 10 years.
 
 # Example
+When reading csv files in python, the URL must be "raw.githubusercontent.com".
 ```python
 import pandas as pd
 
